@@ -1,11 +1,12 @@
-
-
-<div>
-<div>🤗</div><div align="right" top="-10px">🤗</div>
-</div>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=Rounded&color=000&height=100&fontColor=fff&section=header&text=hello!%20my%20name%20is%20jaeman&fontSize=40" />
 </div>
+
+<div align="center">
+ <h2 align="center">🎉About Me🎉</h2>
+ <img width="50%" src="https://user-images.githubusercontent.com/52861611/231624593-c5818172-8713-41df-8f6d-04b52f7c3025.gif"></img>
+</div>
+
 
 <br><br><br><br>
 
